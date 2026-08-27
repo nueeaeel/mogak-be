@@ -37,11 +37,6 @@ logs/
 .env.*
 !.env.example
 
-# Local Spring configuration
-application-local.yml
-application-local.yaml
-application-local.properties
-
 # ==============================
 # OS
 # ==============================
