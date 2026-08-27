@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: mogak-be
+
+  profiles:
+    default: local
